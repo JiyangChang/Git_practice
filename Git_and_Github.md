@@ -36,4 +36,3 @@ git pull
 git revert <commit ID>         # safe choice
 git reset --hard <commit ID>   # not that safe but ok
 
-
