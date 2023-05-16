@@ -13,3 +13,11 @@ git add *
 git add .
 git commit -m "some msg"
 ```
+
+```
+git log
+git log --pretty=oneline
+
+git diff <commitID1> <commitID2>
+git show <commitID1> <commitID2>
+```

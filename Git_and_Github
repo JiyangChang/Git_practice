@@ -14,3 +14,10 @@ use `git status` to check whether there are files changed or added but not commi
 
 ## what happen if commit without -m
 it will pop up an editor to allow you write more detail description
+
+## .gitignore
+*.csv
+!dataset.csv
+
+## create link between local and remote
+git remote add <local_folder_name> <remote_ssh>
