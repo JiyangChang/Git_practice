@@ -7,3 +7,9 @@ git add <filename>
 git commit -m "meaningful message"
 ```
 
+
+```
+git add *
+git add .
+git commit -m "some msg"
+```
