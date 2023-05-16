@@ -10,3 +10,6 @@ Git and GitHub
 
 ## Check the status of Git
 use `git status` to check whether there are files changed or added but not commited
+
+## what happen if commit without -m
+
