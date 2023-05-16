@@ -1,5 +1,7 @@
 Routine 1
 ```
+git status
+
 git add <filename>
 
 git commit -m "meaningful message"
