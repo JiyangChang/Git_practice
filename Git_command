@@ -21,3 +21,10 @@ git log --pretty=oneline
 git diff <commitID1> <commitID2>
 git show <commitID1> <commitID2>
 ```
+
+```
+git remote add <local_foldername> <remote_repo>
+
+git push
+```
+
