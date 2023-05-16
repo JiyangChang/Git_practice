@@ -1,0 +1,7 @@
+Routine 1
+```
+git add <filename>
+
+git commit -m "meaningful message"
+```
+
