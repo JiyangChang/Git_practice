@@ -52,3 +52,6 @@ git reset --hard <commit ID>   # not that safe but ok
 ## Test for collaboration activity
 
 test from Jana
+
+# test for collaoration
+this is text from jiyang
