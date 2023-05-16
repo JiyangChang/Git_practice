@@ -30,4 +30,4 @@ git push
 git pull
 
 ## add a picture in the markdown file
-![title for the figure]{./images/1683879439910.png}
+![title for the figure](./images/1683879439910.png)
