@@ -25,3 +25,6 @@ git remote add <local_repo> <remote_ssh>
 
 ## push local changes to remote repo
 git push
+
+## bring the remote changes back to local repo
+git pull

@@ -28,3 +28,6 @@ git remote add <local_repo> <remote_repo>
 git push
 ```
 
+```
+git pull
+```
