@@ -1,4 +1,5 @@
 Routine 1
+
 ```
 git status
 
@@ -6,7 +7,6 @@ git add <filename>
 
 git commit -m "meaningful message"
 ```
-
 
 ```
 git add *
@@ -30,4 +30,8 @@ git push
 
 ```
 git pull
+```
+
+```
+test this for collaboration activity
 ```
