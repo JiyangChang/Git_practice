@@ -31,3 +31,9 @@ git pull
 
 ## add a picture in the markdown file
 ![title for the figure](./images/1683879439910.png)
+
+## regretting a commit
+git revert <commit ID>         # safe choice
+git reset --hard <commit ID>   # not that safe but ok
+
+
