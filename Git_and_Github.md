@@ -28,3 +28,6 @@ git push
 
 ## bring the remote changes back to local repo
 git pull
+
+## add a picture in the markdown file
+![title for the figure]{../images/1683879439910.png}
