@@ -7,3 +7,6 @@ Git and GitHub
 - Dev.area: folder where I dev my project
 - Stageing area:
 - Local repo:
+
+## Check the status of Git
+use `git status` to check whether there are files changed or added but not commited
