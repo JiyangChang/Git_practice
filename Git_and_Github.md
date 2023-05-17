@@ -47,11 +47,14 @@ git pull
 git revert <commit ID>         # safe choice
 git reset --hard <commit ID>   # not that safe but ok
 
-
-
 ## Test for collaboration activity
 
 test from Jana
 
 # test for collaoration
+
 this is text from jiyang
+
+## Starting with a new branch
+
+git checkout <name> # Switch from a branch
