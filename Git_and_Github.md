@@ -58,3 +58,5 @@ this is text from jiyang
 ## Starting with a new branch
 
 git checkout <name> # Switch from a branch
+
+git branch --show-current
