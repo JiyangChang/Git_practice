@@ -47,14 +47,18 @@ git pull
 git revert <commit ID>         # safe choice
 git reset --hard <commit ID>   # not that safe but ok
 
-
-
 ## Test for collaboration activity
 
 test from Jana
 
 ## test for collaoration
+
 this is text from jiyang
 
 ## Create branch for alternative timeline
+
 git branch <name>
+
+### Create a fork
+
+I forked this project
