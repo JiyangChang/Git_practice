@@ -53,5 +53,8 @@ git reset --hard <commit ID>   # not that safe but ok
 
 test from Jana
 
-# test for collaoration
+## test for collaoration
 this is text from jiyang
+
+## Create branch for alternative timeline
+git branch <name>
